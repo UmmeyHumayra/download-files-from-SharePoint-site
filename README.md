@@ -1,5 +1,5 @@
 # Download file from sharepoint site
-We are going to execute [download.py](/Users/ummey.poney/Library/CloudStorage/OneDrive-Slalom/ummey-training/automate-file-transfer/download.py) file from our terminal which will download the files from a source folder of our sharepoint site to a local destination folder [storage](/Users/ummey.poney/Library/CloudStorage/OneDrive-Slalom/ummey-training/automate-file-transfer/storage). 
+We are going to execute [download.py](https://github.com/UmmeyHumayra/file-xfer-script/blob/main/download.py) file from our terminal which will download the files from a source folder of our sharepoint site to a local destination folder [storage] 
 
 
 ## Setup
